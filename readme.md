@@ -1,33 +1,34 @@
 **Kyryl Vasylenko – senior Software Engineer**
 
-**e-mail:** [**vkeereal@gmail.com**](mailto:vkeereal@gmail.com) **, phone: 0410-871-778, Sydney nsw, 2155**
-
-**LINKS:** [**website**](https://kyryl.info/) **,** [**linkedin**](https://www.linkedin.com/in/kyryl-vasylenko/) **, github, gitlab**
+**LINKS:** [**linkedin**](https://www.linkedin.com/in/kyryl-vasylenko/) **,** [**website**](https://kyryl.info/) **,** [**github**](https://github.com/vkeereal) **,** [**gitlab**](https://gitlab.com/keereal)
 
 **full australian working rights.**
 
 Summary
 
-- Over 10+ years of experience in Software Engineering and communications with clients. Senior front-end key and team lead developer with 4+ years of production experience in HTML, CSS, SCSS, JavaScript, React, and VUE. Experience in responsive web design and the mobile-first approach. Proficient in template languages and template engines and UI libraries. An expert in template development for different platforms. Development front-end for different CMS (PHP, .NET, Java, Python, etc). Improving software performance by implementing best FE practices. Familiar with mobile development: ReactNative, Ionic, NativeScript, Apache Cordova. Worked with Agile methodologies, code review processes, CI/CD. Have experience in software estimation, pre-sales, and architectural proposals. Can differentiate and evaluate business needs and values and transform them from the initial idea into a deliverable product. Positive thinking and reliable teammate could fit in any team and able to work alone.
+- Over 10+ years of experience in Software Engineering and communications with clients. Senior front-end key and team lead developer with 4+ years of production experience in HTML, CSS, SCSS, JavaScript, React, and VUE. Experience in responsive web design and the mobile-first approach. Proficient in template languages and template engines and UI libraries. An expert in template development for different platforms. Development front-end for different CMS (PHP, .NET, Java, Python, etc). Improving software performance by implementing best FE practices. Familiar with hybrid mobile development. Worked with Agile methodologies, code review processes, CI/CD. Have experience in software estimation, pre-sales, and architectural proposals. Can differentiate and evaluate business needs and values and transform them from the initial idea into a deliverable product. Positive thinking and reliable teammate could fit in any team and able to work alone.
 
 Skills
 
-**Technologies**
+**Languages:** JavaScript, TypeScript, HTML 4/5, CSS 2/3, SASS/SCSS, LESS, NodeJS ecosystem, template languages
 
-- **Libraries:** Moment.js, Highcharts JS, React Router, jQuery UI, lodash
-- **Languages:** HTML, CSS, JavaScript, TypeScript, SASS/SCSS, LESS, Markdown
-- **Operating System:** Microsoft Windows, Windows 7, Windows 10
-- **Data:** SVG, Microdata, localstorage, Semantic HTML, MySQL
-- **Framework:** ReactJS, React-Bootstrap, Bootstrap CSS, JavaScript Frameworks, Jasmine, Angular, Ionic, jQuery, Jest, Material UI, Redux, Pug, Foundation CSS, VueJS, Angular Material, React Native, Next.js, Vuex, NativeScript, ElectronJS, AngularJS, Laravel, Express, Webpack
-- **Other:** WP CLI, Nuxt, Leaflet, JS Animation Frameworks, Semantic UI, Cross-browser compatible HTML/CSS markup, VueJS Router, Document management process
+**JavaScript frameworks:** React, Vue, jQuery, Angular/AngularJS, Redux, Vuex, Zustand, NextJS, NuxtJS, Gatsby.
+
+**UI/CSS frameworks:** Bootstrap, Material UI, Chakra UI, Semantic UI, Bulma, BEM methodologies, SMACSS
+
+**Mobile development:** React Native, Ionic, Cordova, Native script.
+
+**Content management systems and frameworks:** Contentful, AEM, Headless CMS, WordPress, Joomla, Drupal, Laravel, OctoberCMS, Express, KOA, .NET CMS.
+
+**Other:** UI/UX transforming to markup, cross-browser compatible HTML/CSS markup, document management process, responsive/adaptive web design, page speed performance and optimisation, GIT, CI/CD tools, testing libraries, databases.
 
 Education
 
-2001-2007 Bachelor in Information Technologies in a top 5 Ukraine University.
+2001-2007. Bachelor's degree in information technologies in a top 5 Ukraine University.
 
 Work experience
 
-## **Jan-2021 - Till now (Feb-2023)** – Senior Software Engineer, **EPAM Systems** , [https://www.epam.com/](https://www.epam.com/)
+## **Jan-2021 - Till now (Mar-2023)** – Senior Software Engineer, **EPAM Systems** , [https://www.epam.com/](https://www.epam.com/)
 
 **Customer:** Epic Games. Software & Hi-Tech
 
